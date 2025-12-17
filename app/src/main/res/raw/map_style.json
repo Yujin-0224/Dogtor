@@ -1,0 +1,9 @@
+[
+  { "featureType": "poi", "stylers": [{ "visibility": "off" }] },
+  { "featureType": "transit", "stylers": [{ "visibility": "off" }] },
+  { "featureType": "road", "elementType": "labels.icon", "stylers": [{ "visibility": "off" }] },
+  { "featureType": "administrative", "stylers": [{ "visibility": "off" }] },
+  { "featureType": "landscape.man_made", "stylers": [{ "visibility": "off" }] },
+  { "featureType": "poi.business", "stylers": [{ "visibility": "off" }] },
+  { "featureType": "poi.school", "stylers": [{ "visibility": "off" }] }
+]
