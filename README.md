@@ -16,7 +16,7 @@ Dogtor는 반려견의 눈병과 피부병을 AI로 분석하여
 
 아래 이미지를 클릭하면 Dogtor 앱 데모 영상을 확인할 수 있습니다.
 
-[![Dogtor Demo](docs/demo_thumbnail.png)](https://github.com/Yujin-0224/Dogtor/blob/main/docs/Dogtor%20데모%20영상.mp4)
+[![Dogtor Demo](docs/demo_thumbnail.png)](https://github.com/Yujin-0224/Dogtor/blob/main/docs/demo.mp4)
 
 ## 주요 기능
 
@@ -110,4 +110,5 @@ Dogtor 앱은 다음 네 가지 주요 화면으로 구성됩니다.
 
 ## 개발자
 정유진
+
 
