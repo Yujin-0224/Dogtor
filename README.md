@@ -12,6 +12,12 @@ Dogtor는 반려견의 눈병과 피부병을 AI로 분석하여
 - 병원 방문 전 보호자가 기본적인 건강 상태를 확인할 수 있도록 지원
 - AI 기술을 활용한 직관적이고 접근성 높은 반려견 건강 관리 서비스 제공
 
+## 데모 영상
+
+아래 이미지를 클릭하면 Dogtor 앱 데모 영상을 확인할 수 있습니다.
+
+[![Dogtor Demo](docs/demo_thumbnail.png)](https://github.com/Yujin-0224/Dogtor/blob/main/docs/Dogtor%20데모%20영상.mp4)
+
 ## 주요 기능
 
 ### 1. AI 진단 기능
@@ -104,3 +110,4 @@ Dogtor 앱은 다음 네 가지 주요 화면으로 구성됩니다.
 
 ## 개발자
 정유진
+
